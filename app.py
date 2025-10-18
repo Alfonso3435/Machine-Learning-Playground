@@ -10,3 +10,7 @@ option = st.sidebar.selectbox(
 if option == "Logistic Regression (from scratch)":
     from modules.logistic_regression import show_logistic_regression
     show_logistic_regression()
+
+if option == "MNIST Classifier":
+    from modules.mnist_classifier import show_mnist_classifier
+    show_mnist_classifier()
