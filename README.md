@@ -39,17 +39,4 @@ Predicts movie ratings using user and movie embeddings with neural network.
   - Synthetic MovieLens-like dataset (recommender system)  
   - MNIST handwritten digits dataset (TensorFlow built-in)
  
-# 🔧 Structure  
-MACHINE-LEARNING-PLAYGROUND/
-│
-├── data/
-│ └── framingham.csv
-│
-├── modules/
-│ ├── logistic_regression.py
-│ ├── mnist_classifier.py
-│ └── recommender_system.py
-│
-├── app.py
-├── requirements.txt
-└── README.md
+
